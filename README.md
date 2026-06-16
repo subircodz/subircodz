@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Subir Sutradhar 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Security-Minded Developer · CS Educator on YouTube</b><br/>
+  <b>Python Scripter . Data Analyst · Security-Minded Developer · CS Educator on YouTube</b><br/>
   <i>I build, break, and teach — one concept at a time.</i>
 </p>
 
@@ -9,10 +9,10 @@
   <a href="https://youtube.com/@ssutradhar35">
     <img src="https://img.shields.io/badge/YouTube-CS_SimplifiedBySubir-FF0000?style=flat&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/subir-sutradhar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:subirthecoder35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -54,6 +54,7 @@
 
 **Languages & Tools**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -76,7 +77,7 @@
 
 Topics I cover: `DSA` · `C Programming` · `DBMS` · `Computer Networks` · `Operating Systems` · `Interview Prep`
 
-📺 **[Watch on YouTube →](https://youtube.com/@ssutradhar35)**
+<img src="https://img.shields.io/badge/YouTube-CS_SimplifiedBySubir-FF0000?style=flat&logo=youtube&logoColor=red" /> **[Watch on YouTube →](https://youtube.com/@ssutradhar35)**
 
 ---
 

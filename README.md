@@ -25,6 +25,7 @@
 - 🔐 **Cybersecurity mindset** — built Python tools for security analysis workflows
 - 🌐 Comfortable with **Frontend** — HTML, CSS3, JavaScript ES6
 - 🌳 Solve and teach **DSA** (Trees, Graphs, Sorting) in C & Python
+- 🖧 Trained in **Networking (CCNA Certified), Linux Fundamentals, and Active Directory Environment Management**
 - 🎥 Run **[CS_SimplifiedBySubir](https://youtube.com/@ssutradhar35)** — beginner-to-pro CS tutorials (DSA, DBMS, CN, OS, Interview Prep)
 - 📍 Based in Assam, India
 

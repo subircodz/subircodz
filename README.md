@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-- 📊 Transitioning into **Data Analytics** — Pandas, NumPy, SQL, Power BI
+- 📊 **Data Analytics Researcher** — Pandas, NumPy, Matplotlib, SQL, Power BI, Spreadsheets
 - 🔐 **Cybersecurity mindset** — built Python tools for security analysis workflows
 - 🌐 Comfortable with **Frontend** — HTML, CSS3, JavaScript ES6
 - 🌳 Solve and teach **DSA** (Trees, Graphs, Sorting) in C & Python

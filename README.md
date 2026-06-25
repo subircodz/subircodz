@@ -66,7 +66,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [📊 Data Analyst Journey](https://github.com/subircodz/Data-Analysis-Projects) | Structured path: Spreadsheets → SQL → Power BI → Python Analytics | Python, Pandas, NumPy |
+| [📊 Data Analysis Projects](https://github.com/subircodz/Data-Analysis-Projects) | Projects for Data Analysis |
 | [🌳 DSA](https://github.com/subircodz/DSA) | Algorithms & data structures from scratch, used in my YouTube tutorials | C |
 | 🔐 Python Security Tools *(coming soon)* | Automation tools built for security analyst workflows | Python |
 

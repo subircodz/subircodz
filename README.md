@@ -88,9 +88,7 @@ Topics I cover: `DSA` · `C Programming` · `DBMS` · `Computer Networks` · `Op
 ✅ DSA — Trees (BST, AVL), Graphs, Sorting
 ✅ Frontend — HTML, CSS3, JavaScript ES6
 ✅ Cybersecurity Python Tools
-🔄 Data Analytics — SQL (In Progress)
-⬜ Power BI Dashboards
-⬜ End-to-end Data Analysis Portfolio Projects
+✅ Data Science
 ```
 
 ---

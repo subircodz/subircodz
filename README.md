@@ -66,8 +66,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [📊 Restaurant Sales Analytics](https://github.com/subircodz/restaurant-sales-analysis) | Business Analytics Pipeline |
-| [🌳 DSA](https://github.com/subircodz/DSA) | Algorithms & data structures from scratch, used in my YouTube tutorials | C |
+| [📊 Restaurant Sales Analytics](https://github.com/subircodz/restaurant-sales-analysis) | Business Analytics Pipeline | Pandas, Matplotlib
+| [🌳 DSA](https://github.com/subircodz/DSA) | Algorithms & data structures from scratch | C |
 | 🔐 Python Security Tools *(coming soon)* | Automation tools built for security analyst workflows | Python |
 
 ---

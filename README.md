@@ -1,104 +1,191 @@
-<h1 align="center">Hey, I'm Subir Sutradhar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Python Scripter . Data Analyst · Security-Minded Developer · CS Educator on YouTube</b><br/>
-  <i>I build, break, and teach — one concept at a time.</i>
+# Hey, I'm Subir Sutradhar 👋
+
+### Data Analytics · Python Engineering · Agentic AI & Automation
+
+**I build data-driven systems, automation workflows, and software with an engineering mindset.**
+
+<p>
+  <a href="https://github.com/subircodz">GitHub</a> ·
+  <a href="https://linkedin.com/in/subir-sutradhar">LinkedIn</a> ·
+  <a href="https://youtube.com/@ssutradhar35">YouTube</a>
 </p>
 
-<p align="center">
-  <a href="https://youtube.com/@ssutradhar35">
-    <img src="https://img.shields.io/badge/YouTube-CS_SimplifiedBySubir-FF0000?style=flat&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/subir-sutradhar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:subirthecoder35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧭 What I'm Building Toward
 
-- 📊 **Data Analytics Researcher** — Pandas, NumPy, Matplotlib, SQL, Power BI, Spreadsheets
-- 🔐 **Cybersecurity mindset** — built Python tools for security analysis workflows
-- 🌐 Comfortable with **Frontend** — HTML, CSS3, JavaScript ES6
-- 🌳 Solve and teach **DSA** (Trees, Graphs, Sorting) in C & Python
-- 🖧 Trained in **Networking (CCNA Certified), Linux Fundamentals, and Active Directory Environment Management**
-- 🎥 Run **[CS_SimplifiedBySubir](https://youtube.com/@ssutradhar35)** — beginner-to-pro CS tutorials (DSA, DBMS, CN, OS, Interview Prep)
-- 📍 Based in Assam, India
+I'm interested in the space where **data, software engineering, automation, and AI meet**.
 
----
-
-## 🛠️ Tech Stack
-
-**Data & Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Security**
-
-![Python](https://img.shields.io/badge/Python_Security_Tools-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [📊 Restaurant Sales Analytics](https://github.com/subircodz/restaurant-sales-analysis) | Business Analytics Pipeline | Pandas, Matplotlib
-| [🌳 DSA](https://github.com/subircodz/DSA) | Algorithms & data structures from scratch | C |
-| 🔐 Python Security Tools *(coming soon)* | Automation tools built for security analyst workflows | Python |
-
----
-
-## 🎥 YouTube — CS_SimplifiedBySubir
-
-> I explain complex CS concepts with **visuals, diagrams, and code walkthroughs** — for BCA/MCA students and self-learners.
-
-Topics I cover: `DSA` · `C Programming` · `DBMS` · `Computer Networks` · `Operating Systems` · `Interview Prep`
-
-<img src="https://img.shields.io/badge/YouTube-CS_SimplifiedBySubir-FF0000?style=flat&logo=youtube&logoColor=red" /> **[Watch on YouTube →](https://youtube.com/@ssutradhar35)**
-
----
-
-## 📈 Current Focus
-
-```
-✅ DSA — Trees (BST, AVL), Graphs, Sorting
-✅ Frontend — HTML, CSS3, JavaScript ES6
-✅ Cybersecurity Python Tools
-✅ Data Science
+```text
+Business / Real-world Problem
+          ↓
+       Data & Evidence
+          ↓
+   Python Engineering
+          ↓
+ Automation & Workflows
+          ↓
+   Agentic AI Systems
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<img src="./github-metrics.svg" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subircodz&theme=tokyo-night&hide_border=true" width="100%" />
+I care less about collecting technologies and more about understanding **why a solution should be designed a certain way, how to implement it cleanly, and how to make it reliable**.
 
 ---
 
-> *"I don't just learn — I build, break, and teach it."*
+## 📊 Primary Focus — Data Analytics & Analytics Engineering
+
+I build analytics projects around **business questions rather than datasets alone**.
+
+**Business Understanding → Requirements → Data → Validation → Analysis → Insights → Recommendations**
+
+### Selected work
+
+- 📦 **[Warehouse Operations & Inventory Analytics](https://github.com/subircodz/Warehouse-Operations-And-Inventory-Analytics)** — operational analytics with business requirements, data validation, analysis, and decision-oriented reporting.
+- 🚚 **[Distribution Center & Logistics Analytics](https://github.com/subircodz/distribution-center-logistics-analytics)** — logistics and operational analytics.
+- 🧾 **[Restaurant Sales Analysis](https://github.com/subircodz/restaurant-sales-analysis)** — sales analytics and business-oriented exploration.
+- 📐 **[Data Analytics Project Methodology Framework](https://github.com/subircodz/data-analytics-project-methodology-framework)** — a business-first, evidence-driven methodology for executing analytics projects.
+
+> **Business First. Evidence Always.**
+
+---
+
+## 🐍 Secondary Focus — Python Engineering & Automation
+
+I'm developing Python beyond syntax and isolated scripts, with emphasis on:
+
+- software design and separation of responsibilities
+- maintainable object-oriented design
+- validation and controlled state
+- testing and engineering workflows
+- automation
+- clean interfaces and practical trade-offs
+
+### Engineering work
+
+- 🧠 **[Python Engineering](https://github.com/subircodz/python_engineering)** — a structured engineering-learning repository focused on reasoning, design decisions, implementation, testing, and debugging.
+- ⚙️ **[Content Intelligence Engine](https://github.com/subircodz/Content_Intelligence_Engine)** — a domain-independent system for research, competitive intelligence, strategy, and AI-assisted content workflows.
+- 🛠️ **[Data Generation Engine](https://github.com/subircodz/Data-Generation-Engine)** — reusable data-generation and automation work.
+
+---
+
+## 🤖 Emerging Focus — Agentic AI & AI Automation
+
+I'm currently learning how to build **AI agents and AI-powered automation workflows in Python**.
+
+The approach is incremental: start with small agents, understand the underlying architecture, and progressively build toward reliable multi-step systems rather than treating agentic AI as a collection of prompts.
+
+**Python → LLMs → Tools → Workflows → Agents → Reliable AI Systems**
+
+This is an active area of development; new projects will appear here as they mature.
+
+---
+
+## 🧠 Computer Science Foundations
+
+My engineering foundation is built around core computer science rather than frameworks alone.
+
+**DSA · DBMS · Operating Systems · Computer Networks · Algorithms · Linux**
+
+I also maintain a technical education track where I break down CS concepts into practical explanations, diagrams, and code.
+
+🎥 **[CS_SimplifiedBySubir](https://youtube.com/@ssutradhar35)**
+
+> Learn the concept. Understand the reasoning. Then build it.
+
+---
+
+## 🔬 How I Learn & Build
+
+I prefer a **problem-first, evidence-driven** approach.
+
+```text
+Understand the requirement
+          ↓
+Identify the real problem
+          ↓
+Choose the appropriate abstraction
+          ↓
+Implement
+          ↓
+Test / validate
+          ↓
+Review the decision
+          ↓
+Document what was learned
+```
+
+I'm deliberately building the habit of asking:
+
+> **What should I use here — and why?**
+
+rather than simply:
+
+> **What syntax do I need?**
+
+---
+
+## 🛠️ Current Toolkit
+
+**Languages**  
+`Python` · `SQL` · `C`
+
+**Data & Analytics**  
+`Pandas` · `NumPy` · `Matplotlib` · `Power BI` · `Spreadsheets`
+
+**Engineering**  
+`Git` · `GitHub` · `Linux` · `pytest` · `Ruff`
+
+**AI & Automation**  
+`LLMs` · `AI Agents` · `AI Automation Workflows`
+
+---
+
+## 📚 Currently Learning
+
+| Area | Direction |
+|---|---|
+| 📊 Data Analytics | Business-first analytics & analytical engineering |
+| 🐍 Python Engineering | Design, testing, maintainability & production practices |
+| 🤖 Agentic AI | Python agents, tools, workflows & orchestration |
+| 🧠 Computer Science | Stronger foundations through practical reasoning |
+
+---
+
+## 🚀 Featured Projects
+
+If you're visiting my profile for the first time, these are good places to start:
+
+| Project | What it demonstrates |
+|---|---|
+| **[DAPM](https://github.com/subircodz/data-analytics-project-methodology-framework)** | Business-first analytics methodology |
+| **[Warehouse Analytics](https://github.com/subircodz/Warehouse-Operations-And-Inventory-Analytics)** | End-to-end operational analytics |
+| **[Content Intelligence Engine](https://github.com/subircodz/Content_Intelligence_Engine)** | Python, automation & AI-oriented system design |
+| **[Python Engineering](https://github.com/subircodz/python_engineering)** | Engineering reasoning and software design |
+
+---
+
+## 🎓 Education & Continuous Development
+
+I'm pursuing an **MCA** while continuously building practical engineering and analytics projects.
+
+My goal is not simply to complete courses, but to turn concepts into **working systems, documented decisions, and reusable engineering habits**.
+
+---
+
+## 📫 Find Me
+
+- 💼 **[LinkedIn](https://linkedin.com/in/subir-sutradhar)**
+- 🎥 **[CS_SimplifiedBySubir](https://youtube.com/@ssutradhar35)**
+- 🐙 **[GitHub](https://github.com/subircodz)**
+
+---
+
+<div align="center">
+
+### Building quietly. Learning deeply. Shipping continuously.
+
+</div>

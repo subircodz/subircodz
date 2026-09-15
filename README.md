@@ -96,6 +96,10 @@ These projects best represent the direction I'm building toward.
 <th>What it represents</th>
 </tr>
 <tr>
+<td><b><a href="https://github.com/subircodz/seo-engine">🔎 SEO Engine</a></b></td>
+<td>Production-oriented SEO, AIO & GEO intelligence engine with crawling, search visibility analysis, competitive intelligence, evidence-backed recommendations, persistence, testing and security controls.</td>
+</tr>
+<tr>
 <td><b><a href="https://github.com/subircodz/data-analytics-project-methodology-framework">📐 DAPM</a></b></td>
 <td>Business-first methodology for executing analytics projects from requirements to decisions.</td>
 </tr>
